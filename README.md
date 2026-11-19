@@ -20,7 +20,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/username/economy-of-informatization-exam.git
+   git clone https://github.com/LangeBoY577/economy-of-informatization-exam.git
    cd economy-of-informatization-exam
    ```
 2. Создать виртуальное окружение:

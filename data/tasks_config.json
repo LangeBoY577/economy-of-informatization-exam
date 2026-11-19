@@ -1,0 +1,135 @@
+[
+  {
+    "num": 1,
+    "lecture": 1,
+    "notebook": "task_01_crm_efficiency.ipynb",
+    "title": "Оценка эффективности внедрения облачной CRM",
+    "result": "NPV ≈ 11,07 млн руб., окупаемость ≈ 4 мес., ROI ≈ 496 %"
+  },
+  {
+    "num": 2,
+    "lecture": 3,
+    "notebook": "task_02_critical_mass.ipynb",
+    "title": "Критическая масса и ценность социальной сети",
+    "result": "КМ с учётом CAC недостижима (CAC·g = ARPU); NPV(36 мес.) ≈ −60 млн руб."
+  },
+  {
+    "num": 3,
+    "lecture": 4,
+    "notebook": "task_03_pricing_strategy.ipynb",
+    "title": "Выбор ценовой стратегии AI-сервиса",
+    "result": "Подписка: LTV 6 000 руб., лучший NPV; при базе ×10 NPV ≈ +148 млн руб."
+  },
+  {
+    "num": 4,
+    "lecture": 5,
+    "notebook": "task_04_ad_load_optimization.ipynb",
+    "title": "Оптимизация рекламной нагрузки",
+    "result": "Оптимум — 10 показов/день, прибыль ≈ 1 530 млн руб./мес."
+  },
+  {
+    "num": 5,
+    "lecture": 6,
+    "notebook": "task_05_cocomo_ii.ipynb",
+    "title": "Стоимость разработки по COCOMO II",
+    "result": "133,4 чел.-мес., 13,9 мес., ≈ 44,0 млн руб. с НДС"
+  },
+  {
+    "num": 6,
+    "lecture": 7,
+    "notebook": "task_06_tco_infrastructure.ipynb",
+    "title": "TCO и выбор инфраструктурной стратегии",
+    "result": "Облако: TCO(PV) ≈ 93,3 млн руб. против 176,2 (on-premise)"
+  },
+  {
+    "num": 7,
+    "lecture": 8,
+    "notebook": "task_07_npv_irr_roi.ipynb",
+    "title": "Эффективность ИС документооборота (NPV, IRR)",
+    "result": "NPV ≈ −34,5 млн руб., IRR ≈ −20 %, ROI ≈ −51 %"
+  },
+  {
+    "num": 8,
+    "lecture": 9,
+    "notebook": "task_08_unit_economics.ipynb",
+    "title": "Юнит-экономика сервиса доставки еды",
+    "result": "Маржа заказа −348 руб. (модель А) / +132 руб. (модель Б)"
+  },
+  {
+    "num": 9,
+    "lecture": 10,
+    "notebook": "task_09_token_costs.ipynb",
+    "title": "Выбор модели для AI-сервиса поддержки",
+    "result": "Гибрид API + кеш: TCO(PV) ≈ $42,4 тыс."
+  },
+  {
+    "num": 10,
+    "lecture": 11,
+    "notebook": "task_10_coordination_model.ipynb",
+    "title": "Модель координации разработки госИС",
+    "result": "Гибрид: TCO ≈ 1 188 млн руб., лучший в 63 % вариантов весов"
+  },
+  {
+    "num": 11,
+    "lecture": 12,
+    "notebook": "task_11_digital_readiness.ipynb",
+    "title": "Готовность к цифровой трансформации",
+    "result": "Индекс готовности ≈ 2,8 из 5 (средняя)"
+  },
+  {
+    "num": 12,
+    "lecture": 13,
+    "notebook": "task_12_ip_strategy.ipynb",
+    "title": "Стратегия защиты интеллектуальной собственности",
+    "result": "Патент: NPV ≈ 8,1 млн руб.; open source ≈ 7,7 млн руб."
+  },
+  {
+    "num": 13,
+    "lecture": 14,
+    "notebook": "task_13_winners_curse.ipynb",
+    "title": "Риск переплаты на аукционе",
+    "result": "P(переплата | победа) ≈ 97 %, ожидаемая переплата ≈ 22 млн руб."
+  },
+  {
+    "num": 14,
+    "lecture": 15,
+    "notebook": "task_14_value_of_information.ipynb",
+    "title": "Ценность информации для проекта",
+    "result": "EVSI ≈ 6,8 млн руб. > 5 млн руб. → исследовать"
+  },
+  {
+    "num": 15,
+    "lecture": 16,
+    "notebook": "task_15_real_option.ipynb",
+    "title": "Опцион на масштабирование платформы",
+    "result": "Опцион (Блэк–Шоулз) ≈ 79,3 млн руб., NPV ≈ 79,05 млн руб."
+  },
+  {
+    "num": 16,
+    "lecture": 17,
+    "notebook": "task_16_auction_bidding.ipynb",
+    "title": "Оптимальная стратегия участия в аукционе",
+    "result": "P* = 42,5 млн руб., Pr = 15 %, U* = 1,125 млн руб."
+  },
+  {
+    "num": 17,
+    "lecture": 18,
+    "notebook": "task_17_budget_bi_justification.ipynb",
+    "title": "Подготовка и защита бюджета BI (обоснование)",
+    "result": "ROI 50 %, NPV ≈ 6,9 млн руб., окупаемость 3,3 года"
+  },
+  {
+    "num": 18,
+    "lecture": 19,
+    "notebook": "task_18_nmck_moscow.ipynb",
+    "title": "НМЦК по методике г. Москвы",
+    "result": "ОТр ≈ 86,6 чел.-мес., НМЦК ≈ 16,2 млн руб. без НДС"
+  },
+  {
+    "num": 19,
+    "lecture": 20,
+    "notebook": "task_19_budget_defense.ipynb",
+    "title": "Защита бюджета ИТ-проекта (итоговая)",
+    "result": "NPV ≈ 6,9 млн руб., DPP ≈ 4,3 года, P(NPV<0) ≈ 44 %"
+  }
+]
